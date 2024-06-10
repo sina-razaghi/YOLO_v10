@@ -1,0 +1,5 @@
+opencv_contrib_python==4.7.0.72
+opencv_python==4.10.0.82
+opencv_python_headless==4.9.0.80
+supervision==0.21.0
+ultralytics==8.1.34
