@@ -20,7 +20,7 @@ Need for Further Research: Further research is needed to validate the performanc
 
 => Overall, YOLOv10 is a promising object detection model with the potential to offer better accuracy and speed compared to previous YOLO generations. However, keep in mind that this model is still in early stages of development and its paper has not been published in any journals or conferences.
 
-![111](https://github.com/sina-razaghi/YOLO_v10/assets/47954697/ec33ab8b-b9db-46c5-8b08-1058746c9d5a)
+<img src="https://github.com/sina-razaghi/YOLO_v10/assets/47954697/ec33ab8b-b9db-46c5-8b08-1058746c9d5a" width="400" />
 
 ### Notes
 - You can use different datasets with more classes to train the model.
