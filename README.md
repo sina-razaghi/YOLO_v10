@@ -1,8 +1,10 @@
 ﻿# Object Detection using YOLOv10
- 
+
 This project provides a real-time object detection application using the YOLOv10 model and a live webcam. It is trained on a small custom 5-class dataset and shows promising results.
+
 A research article titled "YOLOv10: Real-Time End-to-End Object Detection" was published in May 2024. Initial results indicate that its performance is significantly better than previous YOLO models.
 ![111](https://github.com/sina-razaghi/YOLO_v10/assets/47954697/cb215fbe-b4ce-42d2-b50b-4010546f7aff)
+
 
 ## Key Innovations:
 Dual Label Assignment without NMS: YOLOv10 utilizes a dual label assignment strategy, incorporating both one-to-one and one-to-many matches during training, resulting in richer supervision and improved accuracy in inference.
